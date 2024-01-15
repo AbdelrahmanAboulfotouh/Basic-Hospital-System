@@ -1,7 +1,7 @@
 
-#HospitalSystem
+# **HospitalSystem
 
-##Brief description of the  project :
+## Brief description of the  project :
 
 -The system has 20 different specializations, each with a queue of 5 available spots. 
 -When a patient arrives, they must specify their specialization and their status (regular or urgent). 
@@ -16,6 +16,6 @@
 
 
 
-###NOTE that:
+### NOTE that:
 
 This was a practical project Associated with " Mastering 4 critical SKILLS using C++ 17 " course by Dr. Moustafa Saad Ibrahim.
