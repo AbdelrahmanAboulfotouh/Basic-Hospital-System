@@ -15,3 +15,9 @@ Here are some additional details that may be helpful:
 -The system would need to store data about the patients, such as their name, specialization, status, and position in the queue. 
 -The system would need to be able to keep track of the number of patients in each queue and ensure that no queue ever exceeds 5 patients. 
 -The system would need to be able to print a list of all patients in a queue, as well as the name of the doctor who is picking up a patient.
+
+
+
+NOTE that:
+
+This was a practical project Associated with " Mastering 4 critical SKILLS using C++ 17 " course by Dr. Moustafa Saad Ibrahim.
