@@ -1,5 +1,5 @@
 
-# HospitalSystem
+# Hospital System
 
 ## Brief description of the  project :
 
